@@ -27,3 +27,46 @@ This is a simple ATM (Automated Teller Machine) system implemented in Java. It p
 ### Bank Login
 - Banks can log in using their bank ID and password.
 - Once logged in, they can view user details.
+
+### Samples
+
+
+
+
+
+
+
+
+![Screenshot 2024-04-05 093611](https://github.com/AshwinHarishP/Console_Application/assets/99186533/b7a07447-f875-4b07-b1bd-30990f2f2c2c)
+
+
+
+
+
+
+![Screenshot 2024-04-05 093640](https://github.com/AshwinHarishP/Console_Application/assets/99186533/81a27381-ac6c-435c-a93a-7e7322f12ba3)
+
+
+
+
+
+
+![Screenshot 2024-04-05 093702](https://github.com/AshwinHarishP/Console_Application/assets/99186533/64b51931-0045-49d4-86c4-bbc4f3c3fd35)
+
+
+
+
+![Screenshot 2024-04-05 093833](https://github.com/AshwinHarishP/Console_Application/assets/99186533/03d85b7f-68bd-4689-8a2e-c1f2ec06310a)
+
+
+
+
+
+
+
+
+
+
+
+
+
