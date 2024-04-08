@@ -27,6 +27,41 @@ This Java console application simulates basic functionalities of an e-commerce p
 - **Product Management**: Products can be added, removed, and viewed by sellers.
 - **Purchase History**: Keeps track of user purchases.
 
+## Samples
+
+![Screenshot 2024-04-08 094138](https://github.com/AshwinHarishP/Console_Application/assets/99186533/4e3f2f79-8cde-4bec-82b9-e03409a8072f)
+
+
+
+
+![Screenshot 2024-04-08 094155](https://github.com/AshwinHarishP/Console_Application/assets/99186533/21c1e855-a122-4337-a078-fde673be5195)
+
+
+
+
+
+![Screenshot 2024-04-08 094305](https://github.com/AshwinHarishP/Console_Application/assets/99186533/92392abe-efe2-4539-bc1c-db4a7318750b)
+
+
+
+![Screenshot 2024-04-08 094327](https://github.com/AshwinHarishP/Console_Application/assets/99186533/b6095a08-2774-4e05-afca-99d08a318c0f)
+
+
+
+
+![Screenshot 2024-04-08 094348](https://github.com/AshwinHarishP/Console_Application/assets/99186533/02a61920-1335-4ac6-a38d-53d16fa3c7f8)
+
+
+![Screenshot 2024-04-08 094514](https://github.com/AshwinHarishP/Console_Application/assets/99186533/972473e8-bb41-4f8c-a03a-7db9f2c7a2b9)
+
+![Screenshot 2024-04-08 094535](https://github.com/AshwinHarishP/Console_Application/assets/99186533/e73a9644-763b-417d-82e2-431b5dc0a790)
+
+
+
+
+
+
+
 ## Contributors
 
 - https://github.com/AshwinHarishP
